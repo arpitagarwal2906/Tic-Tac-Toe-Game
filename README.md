@@ -35,8 +35,10 @@ If you have suggestions or improvements, feel free to fork the repository and su
 
 ## Project Screenshot
 
+## Final Project Screenshots
+
 <p align="center">
-  <img src="path/to/your/image1.png" alt="project_image_1.jpeg" width="45%">
-  <img src="path/to/your/image2.png" alt="project_image_2.jpeg" width="45%">
+  <img src="Tic-Tac-Toe-Game/Images/project_image_1.jpeg" alt="Homepage Screenshot" width="45%">
+  <img src="Tic-Tac-Toe-Game/Images/project_image_2.jpeg" alt="Details Page Screenshot" width="45%">
 </p>
 
