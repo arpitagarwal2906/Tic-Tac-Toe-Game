@@ -32,3 +32,11 @@ If you have suggestions or improvements, feel free to fork the repository and su
 
 - **Inspiration**: This project was inspired by the classic Tic Tac Toe game that many of us have enjoyed playing.
 - **Community Resources:** Thanks to all the developers and designers who provide open-source content for learning and practice.
+
+## Project Screenshot
+
+<p align="center">
+  <img src="path/to/your/image1.png" alt="project_image_1.jpeg" width="45%">
+  <img src="path/to/your/image2.png" alt="project_image_2.jpeg" width="45%">
+</p>
+
