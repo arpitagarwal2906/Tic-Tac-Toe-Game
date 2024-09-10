@@ -33,12 +33,7 @@ If you have suggestions or improvements, feel free to fork the repository and su
 - **Inspiration**: This project was inspired by the classic Tic Tac Toe game that many of us have enjoyed playing.
 - **Community Resources:** Thanks to all the developers and designers who provide open-source content for learning and practice.
 
-## Project Screenshot
+## Project Screenshots
 
-## Final Project Screenshots
-
-<p align="center">
-  <img src="Tic-Tac-Toe-Game/Images/project_image_1.jpeg" alt="Homepage Screenshot" width="45%">
-  <img src="Tic-Tac-Toe-Game/Images/project_image_2.jpeg" alt="Details Page Screenshot" width="45%">
-</p>
-
+![project_image_1](https://github.com/user-attachments/assets/240a37e4-92cb-4276-95d9-a0a7f4133a11)
+![project_image_2](https://github.com/user-attachments/assets/4540f23a-d250-4d63-9e0f-5885579b8b58)
